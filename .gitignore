@@ -1,0 +1,44 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+/.vs/
+/Debug/
+/x64/
+/Coursework2.vcxproj.filters
+/Coursework2.vcxproj.user
+
+# Defined by Luke
+/packages/freeglut.3.0.0.v140.1.0.2
+/packages/glew.v140.1.12.0
+/packages/glfw.3.3.4
+/packages/glm.0.9.9.800
+
