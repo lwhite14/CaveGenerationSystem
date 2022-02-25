@@ -1,4 +1,4 @@
-# 2021-COMP3016-W2: Cave Generation System
+# Cave Generation System
 Cave generation using cellular automata. Users can change multiple traits of the cave; the x width, z width, rock density, wireframe, flat mode, and generate by seed.
 
 ## How does the user interact with the executable?
