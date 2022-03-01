@@ -14,9 +14,6 @@ The 'Project.cpp' file is where the application starts. The three main objects t
 ## How does this program compare to other software?
 This application can best be described as a prototype cave mesh generator. It can be used to visualise the cellular automata algorithm implemented. This cave system can be taken and used for games that find it appropriate to use such a system. 
 
-## Video explanation
-https://youtu.be/egxfYMwBVD0
-
 ## What I started with
  - [LearnOpenGL](https://learnopengl.com/)
  - [Sebastian Lague](https://www.youtube.com/c/SebastianLague)
